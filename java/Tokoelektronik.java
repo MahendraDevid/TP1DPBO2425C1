@@ -55,9 +55,9 @@ public class Tokoelektronik {
     }
 
     void display(){//metode untuk menampilkan data
-        System.out.println("ID: " + id);
-        System.out.println("Nama: " + nama);
-        System.out.println("Kategori: " + kategori);
-        System.out.println("Harga: " + harga);
+        System.out.println("ID       : " + id);
+        System.out.println("Nama     : " + nama);
+        System.out.println("Kategori : " + kategori);
+        System.out.println("Harga    : " + harga);
     }
 }

@@ -3,11 +3,11 @@ from tokoelektronik import TokoElektronik
 listToko = [] #list untuk menyimpan objek TokoElektronik
 
 #menambahkan dengan constructor
-Toko1 = TokoElektronik("E001", "Samsung Galaxy S21", "Smartphone", "2000000")
+Toko1 = TokoElektronik("T001", "Samsung Galaxy S21", "Smartphone", "2000000")
 
 #menambahkan dengan setter
 Toko2 = TokoElektronik()
-Toko2.setId("E002")
+Toko2.setId("T002")
 Toko2.setNama("Apple MacBook Pro")
 Toko2.setKategori("Laptop")
 Toko2.setHarga("15000000")
@@ -67,11 +67,11 @@ while choice != 0:#looping menu sampai user memilih keluar
         for toko in listToko:
             if toko.getId() == id:
                 found = True
-                print("Masukkan Nama baru (sekarang: {}): ".format(toko.getNama()), end="")
+                print("Masukkan Nama baru: ", end="")
                 nama = input()
-                print("Masukkan Kategori baru (sekarang: {}): ".format(toko.getKategori()), end="")
+                print("Masukkan Kategori baru: ", end="")
                 kategori = input()
-                print("Masukkan Harga baru (sekarang: {}): ".format(toko.getHarga()), end="")
+                print("Masukkan Harga baru: ", end="")
                 harga = input()
 
                 toko.setNama(nama)

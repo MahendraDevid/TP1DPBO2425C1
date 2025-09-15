@@ -81,11 +81,11 @@ int main(){
                         found = true;//jika ditemukan maka true
 
                         //update data baru
-                        cout << "Masukkan Nama baru: (sekarang : " << tokoElektronikList[i].getNama() << ")";
+                        cout << "Masukkan Nama baru: ";
                         getline(cin, nama);
-                        cout << "Masukkan Kategori baru: (sekarang : " << tokoElektronikList[i].getKategori() << ")";
+                        cout << "Masukkan Kategori baru: ";
                         getline(cin, kategori);
-                        cout << "Masukkan Harga baru: (sekarang : " << tokoElektronikList[i].getHarga() << ")";
+                        cout << "Masukkan Harga baru: ";
                         getline(cin, harga);
 
                         //menggunakan setter untuk mengupdate data, sesuai variabel input

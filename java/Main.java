@@ -76,11 +76,11 @@ public class Main{
                     boolean foundUpdate = false;
                     for(Tokoelektronik toko : tokoList){
                         if(toko.getId().equals(id)){
-                            System.out.print("Masukkan Nama baru: (Sekarang: " + toko.getNama() + ") ");
+                            System.out.print("Masukkan Nama baru: ");
                             nama = scanner.nextLine();
-                            System.out.print("Masukkan Kategori baru: (Sekarang: " + toko.getKategori() + ") ");
+                            System.out.print("Masukkan Kategori baru: ");
                             kategori = scanner.nextLine();
-                            System.out.print("Masukkan Harga baru: (Sekarang: " + toko.getHarga() + ") ");
+                            System.out.print("Masukkan Harga baru: ");
                             harga = scanner.nextLine();
 
                             toko.setNama(nama);
