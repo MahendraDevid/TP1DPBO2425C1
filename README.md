@@ -26,9 +26,9 @@ Alur program User Akan Diberikan pilihan menu yang sudah di sediakan, lalu user 
 5. Pilihan 4 Untuk Menghapus Data
    <img width="460" height="970" alt="5 Delete Data" src="https://github.com/user-attachments/assets/95c3b6da-debd-4323-b3e6-21f96ef0f976" />
 6. Pilihan 5 Untuk Mencari Data
-    <img width="455" height="297" alt="6 Cari data" src="https://github.com/user-attachments/assets/ff7bdc3e-eb56-4bb6-a888-3b2d717302b1" />
+   <img width="455" height="297" alt="6 Cari data" src="https://github.com/user-attachments/assets/ff7bdc3e-eb56-4bb6-a888-3b2d717302b1" />
 7. Pilihan 0 Untuk Keluar Dari Program
-    <img width="404" height="207" alt="9 tampilan keluar menu" src="https://github.com/user-attachments/assets/991864f4-bed6-4214-b857-d67c8d99e30f" />
+   <img width="404" height="207" alt="9 tampilan keluar menu" src="https://github.com/user-attachments/assets/991864f4-bed6-4214-b857-d67c8d99e30f" />
 
 # Error Handilng
 1. Jika Update, Hapus Dan Cari Data Lalu ID Data Tidak Ada
@@ -36,9 +36,9 @@ Alur program User Akan Diberikan pilihan menu yang sudah di sediakan, lalu user 
 
 # Dokumentasi
 1. Java
-   <img width="1" height="5" alt="image" src="https://github.com/user-attachments/assets/85bc8afa-c9af-4b52-977d-365098c1bf3b" />
+   <img width="407" height="176" alt="1 Tampilan Awal" src="https://github.com/user-attachments/assets/a41171ed-36b5-4aaf-be62-956f3586809e" />
 2. Python
-   <img width="1" height="5" alt="image" src="https://github.com/user-attachments/assets/c1ec1f67-e39f-4d4d-a165-d18b85d9f070" />
+   <img width="407" height="176" alt="1 Tampilan Awal" src="https://github.com/user-attachments/assets/a41171ed-36b5-4aaf-be62-956f3586809e" />
 3. PHP
    <img width="1913" height="1008" alt="1 Tampilan Awal" src="https://github.com/user-attachments/assets/3df2b9a1-a25e-4a39-bde8-a7a9bcb40e03" />
 4. CPP
