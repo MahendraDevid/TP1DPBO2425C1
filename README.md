@@ -36,11 +36,15 @@ Alur program User Akan Diberikan pilihan menu yang sudah di sediakan, lalu user 
 
 # Dokumentasi
 1. Java
+   
    <img width="407" height="176" alt="1 Tampilan Awal" src="https://github.com/user-attachments/assets/a41171ed-36b5-4aaf-be62-956f3586809e" />
 2. Python
+   
    <img width="407" height="176" alt="1 Tampilan Awal" src="https://github.com/user-attachments/assets/a41171ed-36b5-4aaf-be62-956f3586809e" />
 3. PHP
+   
    <img width="1913" height="1008" alt="1 Tampilan Awal" src="https://github.com/user-attachments/assets/3df2b9a1-a25e-4a39-bde8-a7a9bcb40e03" />
 4. CPP
+   
    <img width="407" height="176" alt="1 Tampilan Awal" src="https://github.com/user-attachments/assets/a41171ed-36b5-4aaf-be62-956f3586809e" />
 
