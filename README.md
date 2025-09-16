@@ -16,18 +16,31 @@ Alur program User Akan Diberikan pilihan menu yang sudah di sediakan, lalu user 
 
 # Contoh Alur Program Pada CPP
 1. Menampilkan Pilihan Menu yang disediakan
+   
    <img width="407" height="176" alt="1 Tampilan Awal" src="https://github.com/user-attachments/assets/ee84673c-ec80-4f70-adfc-33b2af401301" />
+   
 2. Pilihan 1 Untuk Menampilkan Data yang ada
+   
    <img width="483" height="267" alt="2 Menampilkan data" src="https://github.com/user-attachments/assets/0550261a-0953-4054-9640-bf0a4def1dfc" />
+   
 3. Pilihan 2 Untuk Menambahkan Data
+   
    <img width="573" height="877" alt="3 Menambah data" src="https://github.com/user-attachments/assets/daae3c37-7094-476f-91cb-480cea81efa2" />
+   
 4. Piihan 3 Untuk Mengubah Data
+   
    <img width="526" height="939" alt="4 Update Data" src="https://github.com/user-attachments/assets/0d46ae39-e23d-4175-bead-0a8d168ff8f4" />
+   
 5. Pilihan 4 Untuk Menghapus Data
+   
    <img width="460" height="970" alt="5 Delete Data" src="https://github.com/user-attachments/assets/95c3b6da-debd-4323-b3e6-21f96ef0f976" />
+   
 6. Pilihan 5 Untuk Mencari Data
+    
    <img width="455" height="297" alt="6 Cari data" src="https://github.com/user-attachments/assets/ff7bdc3e-eb56-4bb6-a888-3b2d717302b1" />
+   
 7. Pilihan 0 Untuk Keluar Dari Program
+
    <img width="404" height="207" alt="9 tampilan keluar menu" src="https://github.com/user-attachments/assets/991864f4-bed6-4214-b857-d67c8d99e30f" />
 
 # Error Handilng
