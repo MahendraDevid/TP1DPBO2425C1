@@ -1,4 +1,4 @@
-<img width="407" height="176" alt="1 Tampilan Awal" src="https://github.com/user-attachments/assets/50e931fc-6ef0-43c7-b66a-64a687867b2f" /># TP1DPBO2425C1
+# TP1DPBO2425C1
 
 Saya Mahendra Devid Putra Anwar dengan NIM 2407792 mengerjakan Tugas Praktikum 1 dalam mata kuliah Desain Pemrograman Berbasis Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin
 
